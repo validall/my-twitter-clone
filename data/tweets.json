@@ -1,0 +1,28 @@
+{
+  "tweets": [
+    {
+      "id": "1747674347740",
+      "title": "Test topic 2",
+      "body": "Test text 2",
+      "userId": "1",
+      "tags": [
+        "french",
+        "american"
+      ],
+      "reactions": 0,
+      "timestamp": "2025-05-19T17:05:47.740Z"
+    },
+    {
+      "id": "1747636448084",
+      "title": "Test topic",
+      "body": "Test text",
+      "userId": "1",
+      "tags": [
+        "love",
+        "crime"
+      ],
+      "reactions": 0,
+      "timestamp": "2025-05-19T06:56:09.115Z"
+    }
+  ]
+}
